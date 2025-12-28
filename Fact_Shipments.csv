@@ -1,0 +1,301 @@
+ShipmentID,DepartureDate,ETA,ActualArrivalDate,OriginCountry,VendorName,TransportMode,ShipmentType,Carrier,DestinationName,DestinationEmirate,ShipmentTotalCBM,ShipmentTotalWeightKG,ShipmentTotalUnits,ShipmentTotalValueAED,ShipmentTotalPallets,Status
+SHP00001,07/02/2025,10/02/2025,16/02/2025,Germany,Vendor_016,Sea,Box,Carrier_02,Dubai DC,Dubai,68.453,3316.104,729,46343.97,70,Delivered
+SHP00002,18/05/2024,07/06/2024,05/06/2024,USA,Vendor_013,Air,Pallet,Carrier_11,Ajman Store,Ajman,70.95,4512.933,1206,62578.13,75,Delivered
+SHP00003,12/02/2024,15/03/2024,21/03/2024,United Kingdom,Vendor_038,Air,Pallet,Carrier_07,Ras Al Khaimah Store,RAK,55,5739.402,976,59112.87,57,Delivered
+SHP00004,09/07/2024,15/07/2024,19/07/2024,USA,Vendor_007,Sea,Pallet,Carrier_08,Dubai DC,Dubai,53.247,779.844,790,49432.1,55,Delivered
+SHP00005,04/12/2024,27/12/2024,27/12/2024,USA,Vendor_020,Air,Pallet,Carrier_05,Fujairah Store,Fujairah,79.565,6201.936,1845,89845.99,82,Delivered
+SHP00006,26/12/2024,31/12/2024,29/12/2024,USA,Vendor_007,Sea,Box,Carrier_09,Al Qusais Store,Dubai,24.744,2330.549,979,51357.56,27,Delivered
+SHP00007,20/10/2024,20/11/2024,20/11/2024,Italy,Vendor_004,Air,Box,Carrier_07,Abu Dhabi DC,Abu Dhabi,29.099,2647.938,346,22427.72,30,Delivered
+SHP00008,20/06/2024,08/07/2024,11/07/2024,Italy,Vendor_021,Air,CBM,Carrier_11,Al Ain Store,Al Ain,63.645,4875.563,1305,65714.67,67,Delivered
+SHP00009,26/05/2025,21/06/2025,29/06/2025,Germany,Vendor_036,Air,Pallet,Carrier_08,Ras Al Khaimah Store,RAK,18.725,1798.75,250,1350,19,Delivered
+SHP00010,27/07/2024,01/08/2024,06/08/2024,Italy,Vendor_004,Sea,Pallet,Carrier_06,Al Ain Store,Al Ain,2.64,388.131,67,2024.74,3,Delivered
+SHP00011,26/10/2024,01/12/2024,09/12/2024,Italy,Vendor_015,Air,Pallet,Carrier_04,Dubai DC,Dubai,100.175,6044.032,1022,53125.43,102,Delivered
+SHP00012,28/02/2024,05/03/2024,09/03/2024,Spain,Vendor_036,Sea,Box,Carrier_08,Sharjah Store,Sharjah,74.784,3896.475,1095,52987.22,77,Delivered
+SHP00013,13/05/2025,29/05/2025,28/05/2025,Spain,Vendor_013,Air,Box,Carrier_03,Ajman Store,Ajman,26.939,132.436,226,4619.44,27,Delivered
+SHP00014,14/09/2024,27/09/2024,25/09/2024,United Kingdom,Vendor_022,Air,Box,Carrier_03,Fujairah Store,Fujairah,38.121,3338.278,676,33029.08,40,Delivered
+SHP00015,23/01/2025,19/02/2025,20/02/2025,USA,Vendor_031,Air,Box,Carrier_08,Sharjah Store,Sharjah,57.371,4096.958,976,69477.05,59,Delivered
+SHP00016,21/08/2025,26/08/2025,02/09/2025,United Kingdom,Vendor_030,Sea,Pallet,Carrier_06,Abu Dhabi DC,Abu Dhabi,60.289,6246.804,1215,57037.17,61,Delivered
+SHP00017,26/02/2024,02/03/2024,08/03/2024,USA,Vendor_016,Sea,CBM,Carrier_10,Al Ain Store,Al Ain,23.087,473.418,198,4700.52,24,Delivered
+SHP00018,06/02/2025,25/02/2025,26/02/2025,Germany,Vendor_011,Air,Box,Carrier_04,Al Qusais Store,Dubai,63.146,8536.875,1365,73351.9,66,Delivered
+SHP00019,13/01/2024,05/02/2024,05/02/2024,Germany,Vendor_003,Air,Box,Carrier_08,Fujairah Store,Fujairah,25.519,52.92,294,764.4,26,Delivered
+SHP00020,10/08/2025,15/08/2025,19/08/2025,USA,Vendor_024,Sea,Pallet,Carrier_05,Al Ain Store,Al Ain,84.571,6566.345,1378,71896.56,89,Delivered
+SHP00021,16/05/2025,26/05/2025,31/05/2025,Germany,Vendor_032,Air,Pallet,Carrier_12,Abu Dhabi DC,Abu Dhabi,127.371,7997.965,1914,75108.17,130,Delivered
+SHP00022,31/01/2025,02/02/2025,06/02/2025,Germany,Vendor_040,Sea,Box,Carrier_12,Ras Al Khaimah Store,RAK,59.298,2885.239,821,32923.53,62,Delivered
+SHP00023,20/11/2024,11/12/2024,10/12/2024,United Kingdom,Vendor_030,Air,Pallet,Carrier_06,Ajman Store,Ajman,26.676,4056.244,676,19739.13,28,Delivered
+SHP00024,29/03/2025,22/04/2025,22/04/2025,Germany,Vendor_016,Air,Box,Carrier_12,Sharjah Store,Sharjah,125.824,8586.368,1662,94606.36,128,Delivered
+SHP00025,08/06/2024,29/06/2024,04/07/2024,Germany,Vendor_031,Air,Box,Carrier_10,Ras Al Khaimah Store,RAK,74.638,6758.558,1474,29799.43,78,Delivered
+SHP00026,25/09/2025,22/10/2025,27/10/2025,Germany,Vendor_016,Air,Box,Carrier_07,Sharjah Store,Sharjah,1.476,1115.405,205,5116.8,2,Delivered
+SHP00027,22/01/2024,24/02/2024,29/02/2024,Italy,Vendor_011,Air,Pallet,Carrier_09,Al Ain Store,Al Ain,41.528,2060.572,532,35323.34,44,Delivered
+SHP00028,02/02/2025,01/03/2025,09/03/2025,Germany,Vendor_002,Air,Pallet,Carrier_08,Abu Dhabi DC,Abu Dhabi,56.532,2705.253,1090,63316.71,58,Delivered
+SHP00029,17/02/2025,09/03/2025,09/03/2025,Italy,Vendor_018,Air,Pallet,Carrier_07,Al Qusais Store,Dubai,7.317,750.366,137,5473.7,9,Delivered
+SHP00030,26/04/2025,03/05/2025,02/05/2025,Spain,Vendor_040,Sea,Pallet,Carrier_06,Al Ain Store,Al Ain,12.991,1988.3,445,9010.95,14,Delivered
+SHP00031,18/09/2024,22/09/2024,30/09/2024,USA,Vendor_022,Sea,Pallet,Carrier_11,Ajman Store,Ajman,57.019,3050.237,974,49878.21,59,Delivered
+SHP00032,29/05/2024,13/06/2024,20/06/2024,United Kingdom,Vendor_014,Air,Box,Carrier_04,Ras Al Khaimah Store,RAK,16.703,2044.16,280,5176.4,18,Delivered
+SHP00033,03/03/2025,10/03/2025,14/03/2025,Germany,Vendor_016,Sea,Box,Carrier_04,Dubai DC,Dubai,58.764,5616.014,1100,41417.91,60,Delivered
+SHP00034,17/08/2025,20/09/2025,25/09/2025,USA,Vendor_038,Air,Box,Carrier_06,Dubai DC,Dubai,75.232,2535.539,1185,56990.31,79,Delivered
+SHP00035,11/03/2025,31/03/2025,06/04/2025,Germany,Vendor_029,Air,Pallet,Carrier_08,Dubai DC,Dubai,51.006,1256.382,458,9636.82,52,Delivered
+SHP00036,10/03/2024,16/03/2024,16/03/2024,Italy,Vendor_005,Sea,Pallet,Carrier_04,Sharjah Store,Sharjah,17.14,1173.655,259,9986.37,18,Delivered
+SHP00037,04/03/2025,05/04/2025,07/04/2025,Italy,Vendor_008,Air,Box,Carrier_02,Ras Al Khaimah Store,RAK,17.86,551.61,405,28082.7,18,Delivered
+SHP00038,19/05/2024,01/06/2024,06/06/2024,United Kingdom,Vendor_003,Air,Box,Carrier_02,Abu Dhabi DC,Abu Dhabi,52.37,5115.811,1194,60780.9,54,Delivered
+SHP00039,07/07/2025,09/07/2025,08/07/2025,USA,Vendor_038,Sea,Box,Carrier_08,Ajman Store,Ajman,58.482,2917.655,760,45862.87,61,Delivered
+SHP00040,29/03/2024,06/05/2024,11/05/2024,USA,Vendor_039,Air,Pallet,Carrier_06,Ajman Store,Ajman,138.75,9382.693,2235,77187.03,141,Delivered
+SHP00041,21/07/2025,22/08/2025,24/08/2025,United Kingdom,Vendor_016,Air,Pallet,Carrier_09,Al Ain Store,Al Ain,96.68,8635.411,1757,62933.26,99,Delivered
+SHP00042,30/05/2024,08/07/2024,10/07/2024,Germany,Vendor_016,Air,CBM,Carrier_10,Abu Dhabi DC,Abu Dhabi,27.503,4310.075,735,27266.24,30,Delivered
+SHP00043,31/01/2025,24/02/2025,23/02/2025,Spain,Vendor_017,Air,Pallet,Carrier_04,Ras Al Khaimah Store,RAK,23.661,1538.557,577,22892.55,24,Delivered
+SHP00044,18/05/2024,04/06/2024,09/06/2024,United Kingdom,Vendor_011,Air,Pallet,Carrier_12,Dubai DC,Dubai,68.913,2948.657,853,34638.35,71,Delivered
+SHP00045,07/06/2024,09/06/2024,10/06/2024,Italy,Vendor_010,Sea,Pallet,Carrier_10,Al Ain Store,Al Ain,64.807,4908.591,977,29308.65,68,Delivered
+SHP00046,02/04/2025,28/04/2025,01/05/2025,Germany,Vendor_030,Air,CBM,Carrier_09,Al Qusais Store,Dubai,37.136,3020.18,590,23009.25,39,Delivered
+SHP00047,28/10/2024,02/12/2024,02/12/2024,USA,Vendor_037,Air,Box,Carrier_05,Dubai DC,Dubai,53.612,1754.626,760,38313.43,56,Delivered
+SHP00048,04/08/2024,11/08/2024,09/08/2024,USA,Vendor_031,Sea,CBM,Carrier_06,Fujairah Store,Fujairah,18.394,804.2,427,14520.21,19,Delivered
+SHP00049,11/10/2025,22/10/2025,23/10/2025,USA,Vendor_036,Air,Pallet,Carrier_04,Al Ain Store,Al Ain,146.549,14806.501,2051,87186.67,149,Delivered
+SHP00050,25/05/2024,25/06/2024,29/06/2024,Italy,Vendor_036,Air,Box,Carrier_06,Ajman Store,Ajman,98.076,5128.499,1539,41466.53,100,Delivered
+SHP00051,27/08/2025,01/09/2025,01/09/2025,Spain,Vendor_024,Sea,Box,Carrier_01,Ras Al Khaimah Store,RAK,104.19,3857.051,1498,76279.7,107,Delivered
+SHP00052,06/08/2025,02/09/2025,31/08/2025,Spain,Vendor_020,Air,Box,Carrier_02,Ajman Store,Ajman,40.322,3508.666,928,38490.04,42,Delivered
+SHP00053,10/06/2025,07/07/2025,08/07/2025,Italy,Vendor_017,Air,Box,Carrier_03,Fujairah Store,Fujairah,49.392,963.739,793,46263.62,50,Delivered
+SHP00054,20/01/2025,21/02/2025,24/02/2025,USA,Vendor_003,Air,CBM,Carrier_06,Ras Al Khaimah Store,RAK,69.65,1906.458,918,26311.19,72,Delivered
+SHP00055,27/04/2024,04/06/2024,11/06/2024,Italy,Vendor_016,Air,Pallet,Carrier_09,Al Qusais Store,Dubai,33.152,3515.32,934,23820.5,34,Delivered
+SHP00056,27/10/2025,06/12/2025,11/12/2025,USA,Vendor_007,Air,Pallet,Carrier_05,Al Ain Store,Al Ain,4.485,952.8,150,5742,5,In Transit
+SHP00057,28/05/2024,27/06/2024,01/07/2024,Germany,Vendor_023,Air,CBM,Carrier_11,Abu Dhabi DC,Abu Dhabi,42.48,563.92,371,3717.42,43,Delivered
+SHP00058,03/11/2024,30/11/2024,01/12/2024,Spain,Vendor_036,Air,Box,Carrier_01,Sharjah Store,Sharjah,58.542,5752.513,919,45425.67,60,Delivered
+SHP00059,21/03/2025,04/04/2025,12/04/2025,USA,Vendor_005,Air,Pallet,Carrier_06,Dubai DC,Dubai,110.859,5269.437,1439,63500.28,113,Delivered
+SHP00060,11/09/2024,06/10/2024,08/10/2024,USA,Vendor_004,Air,Pallet,Carrier_08,Al Ain Store,Al Ain,8.008,371.602,77,6060.67,9,Delivered
+SHP00061,15/02/2025,20/03/2025,19/03/2025,Germany,Vendor_023,Air,Pallet,Carrier_07,Abu Dhabi DC,Abu Dhabi,38.176,4805.906,909,33836.03,41,Delivered
+SHP00062,02/07/2025,27/07/2025,28/07/2025,United Kingdom,Vendor_029,Air,Pallet,Carrier_09,Ajman Store,Ajman,88.196,5205.327,1033,29352.04,91,Delivered
+SHP00063,21/06/2024,15/07/2024,13/07/2024,Spain,Vendor_031,Air,Box,Carrier_01,Sharjah Store,Sharjah,21.469,2217.432,544,28111.36,22,Delivered
+SHP00064,05/01/2024,27/01/2024,01/02/2024,Spain,Vendor_024,Air,Box,Carrier_10,Fujairah Store,Fujairah,49.342,1859.237,877,33504.21,50,Delivered
+SHP00065,17/08/2024,24/08/2024,01/09/2024,USA,Vendor_030,Sea,Box,Carrier_07,Dubai DC,Dubai,92.778,5375.666,1343,55180.19,96,Delivered
+SHP00066,16/09/2024,26/09/2024,30/09/2024,USA,Vendor_022,Air,Box,Carrier_02,Al Ain Store,Al Ain,41.138,529.982,499,13657.69,42,Delivered
+SHP00067,17/01/2024,23/01/2024,26/01/2024,United Kingdom,Vendor_029,Sea,Pallet,Carrier_11,Ajman Store,Ajman,78.43,5589.902,1043,39893.99,80,Delivered
+SHP00068,06/03/2025,19/03/2025,20/03/2025,Spain,Vendor_005,Air,Pallet,Carrier_03,Sharjah Store,Sharjah,80.415,4967.363,1097,30591.75,83,Delivered
+SHP00069,15/09/2025,22/09/2025,21/09/2025,Spain,Vendor_031,Sea,CBM,Carrier_12,Fujairah Store,Fujairah,80.858,7945.394,1753,58468.31,84,Delivered
+SHP00070,24/05/2025,14/06/2025,15/06/2025,Spain,Vendor_031,Air,Pallet,Carrier_06,Fujairah Store,Fujairah,89.968,5012.249,1075,50404.39,92,Delivered
+SHP00071,29/04/2024,26/05/2024,29/05/2024,United Kingdom,Vendor_026,Air,CBM,Carrier_08,Fujairah Store,Fujairah,24.479,4797.005,899,43158.31,26,Delivered
+SHP00072,06/07/2025,11/08/2025,14/08/2025,Germany,Vendor_039,Air,Box,Carrier_11,Dubai DC,Dubai,28.846,2191.368,408,20701.92,29,Delivered
+SHP00073,20/06/2025,22/06/2025,28/06/2025,Germany,Vendor_035,Sea,Box,Carrier_05,Ajman Store,Ajman,71.927,2893.016,757,52563.72,74,Delivered
+SHP00074,27/03/2024,31/03/2024,29/03/2024,Germany,Vendor_037,Sea,Pallet,Carrier_12,Ras Al Khaimah Store,RAK,21.496,109.872,252,16999.92,22,Delivered
+SHP00075,28/07/2025,28/08/2025,28/08/2025,Italy,Vendor_039,Air,Pallet,Carrier_05,Al Ain Store,Al Ain,8.46,149,200,15132,9,Delivered
+SHP00076,15/08/2024,20/08/2024,19/08/2024,Spain,Vendor_020,Sea,Pallet,Carrier_02,Sharjah Store,Sharjah,135.171,7332.183,1853,64038.41,139,Delivered
+SHP00077,25/06/2024,16/07/2024,20/07/2024,USA,Vendor_032,Air,Pallet,Carrier_12,Ras Al Khaimah Store,RAK,57.624,2802.06,902,38744.32,59,Delivered
+SHP00078,17/12/2024,06/01/2025,10/01/2025,USA,Vendor_033,Air,CBM,Carrier_02,Ajman Store,Ajman,14.648,2141.859,313,8360.23,15,Delivered
+SHP00079,03/03/2025,05/04/2025,10/04/2025,USA,Vendor_033,Air,CBM,Carrier_04,Dubai DC,Dubai,95.899,4936.842,1422,62171.64,98,Delivered
+SHP00080,30/03/2025,01/04/2025,03/04/2025,Germany,Vendor_001,Sea,Box,Carrier_06,Ajman Store,Ajman,23.976,3346.258,679,32146.21,26,Delivered
+SHP00081,12/05/2025,04/06/2025,08/06/2025,USA,Vendor_015,Air,Pallet,Carrier_01,Ajman Store,Ajman,140.065,9167.023,2098,58103.49,142,Delivered
+SHP00082,06/04/2025,24/04/2025,26/04/2025,Italy,Vendor_022,Air,Box,Carrier_10,Dubai DC,Dubai,38.742,9008.271,1658,108497.28,41,Delivered
+SHP00083,20/04/2024,27/05/2024,30/05/2024,Germany,Vendor_031,Air,Box,Carrier_08,Fujairah Store,Fujairah,90.661,5756.649,1463,43074.15,92,Delivered
+SHP00084,07/03/2024,01/04/2024,30/03/2024,Germany,Vendor_015,Air,Box,Carrier_12,Ras Al Khaimah Store,RAK,94.564,5936.383,1611,55366.03,97,Delivered
+SHP00085,26/09/2025,07/10/2025,14/10/2025,Spain,Vendor_027,Air,Box,Carrier_08,Ajman Store,Ajman,84.347,6126.052,1133,57690.43,86,Delivered
+SHP00086,16/09/2024,16/10/2024,17/10/2024,Germany,Vendor_031,Air,Box,Carrier_11,Dubai DC,Dubai,40.932,3257.149,769,31725.76,43,Delivered
+SHP00087,16/09/2025,20/10/2025,25/10/2025,Italy,Vendor_007,Air,CBM,Carrier_01,Dubai DC,Dubai,57.102,3316.973,722,33824.65,59,Delivered
+SHP00088,28/05/2024,02/07/2024,10/07/2024,USA,Vendor_024,Air,Pallet,Carrier_01,Dubai DC,Dubai,25.798,4509.534,634,28046.46,27,Delivered
+SHP00089,20/04/2024,23/05/2024,30/05/2024,Germany,Vendor_014,Air,Pallet,Carrier_01,Al Ain Store,Al Ain,50.152,7668.105,1284,43753.96,52,Delivered
+SHP00090,28/03/2024,15/04/2024,18/04/2024,Spain,Vendor_018,Air,CBM,Carrier_10,Al Qusais Store,Dubai,125.89,6269.716,1466,61010.78,129,Delivered
+SHP00091,21/05/2024,20/06/2024,20/06/2024,Italy,Vendor_034,Air,Box,Carrier_01,Fujairah Store,Fujairah,28.537,2553.548,640,33365.52,30,Delivered
+SHP00092,22/09/2024,24/10/2024,23/10/2024,USA,Vendor_005,Air,Box,Carrier_08,Ajman Store,Ajman,79.026,2448.173,811,23157.27,81,Delivered
+SHP00093,31/01/2024,06/03/2024,12/03/2024,Italy,Vendor_038,Air,Pallet,Carrier_05,Al Ain Store,Al Ain,87.639,3666.76,1528,65346.48,89,Delivered
+SHP00094,14/03/2025,03/04/2025,03/04/2025,Spain,Vendor_008,Air,Box,Carrier_05,Fujairah Store,Fujairah,19.15,4653.005,805,24635.52,20,Delivered
+SHP00095,09/04/2024,19/05/2024,24/05/2024,United Kingdom,Vendor_009,Air,Pallet,Carrier_02,Sharjah Store,Sharjah,15.576,1454.64,240,17284.8,16,Delivered
+SHP00096,29/01/2024,28/02/2024,03/03/2024,Germany,Vendor_038,Air,Pallet,Carrier_10,Al Qusais Store,Dubai,9.153,819.094,202,13972.78,10,Delivered
+SHP00097,13/08/2025,22/09/2025,22/09/2025,Germany,Vendor_014,Air,Box,Carrier_11,Sharjah Store,Sharjah,84.208,3811.727,985,52984.2,88,Delivered
+SHP00098,17/06/2024,09/07/2024,07/07/2024,United Kingdom,Vendor_009,Air,Pallet,Carrier_03,Sharjah Store,Sharjah,69.444,5409.764,1151,43684.65,71,Delivered
+SHP00099,17/07/2024,08/08/2024,11/08/2024,USA,Vendor_036,Air,CBM,Carrier_03,Ras Al Khaimah Store,RAK,36.9,1491.5,500,9040,37,Delivered
+SHP00100,01/08/2025,13/08/2025,20/08/2025,USA,Vendor_004,Air,Pallet,Carrier_06,Abu Dhabi DC,Abu Dhabi,22.412,338.781,323,11702.11,23,Delivered
+SHP00101,28/07/2025,19/08/2025,18/08/2025,Spain,Vendor_030,Air,Box,Carrier_03,Al Qusais Store,Dubai,52.004,9166.192,1567,49660.22,55,Delivered
+SHP00102,14/01/2025,26/01/2025,24/01/2025,United Kingdom,Vendor_012,Air,Pallet,Carrier_11,Sharjah Store,Sharjah,52.225,4170.078,1178,62617.82,53,Delivered
+SHP00103,15/09/2024,26/09/2024,30/09/2024,Germany,Vendor_002,Air,CBM,Carrier_04,Dubai DC,Dubai,82.012,4876.915,1060,39086.53,83,Delivered
+SHP00104,21/07/2025,17/08/2025,21/08/2025,United Kingdom,Vendor_036,Air,CBM,Carrier_05,Dubai DC,Dubai,93.51,4076.363,1238,29846.06,97,Delivered
+SHP00105,14/12/2024,19/12/2024,17/12/2024,USA,Vendor_006,Sea,Box,Carrier_04,Dubai DC,Dubai,55.266,4770.712,783,24810.71,57,Delivered
+SHP00106,04/12/2024,16/12/2024,14/12/2024,United Kingdom,Vendor_001,Air,Pallet,Carrier_11,Ajman Store,Ajman,92.305,8375.111,1949,76075.34,95,Delivered
+SHP00107,18/06/2025,20/07/2025,21/07/2025,United Kingdom,Vendor_021,Air,Box,Carrier_11,Abu Dhabi DC,Abu Dhabi,61.42,3848.453,725,34949.83,63,Delivered
+SHP00108,07/09/2025,16/10/2025,17/10/2025,Italy,Vendor_003,Air,CBM,Carrier_11,Abu Dhabi DC,Abu Dhabi,32.114,2364.134,640,31793.2,33,Delivered
+SHP00109,02/01/2024,02/02/2024,08/02/2024,USA,Vendor_014,Air,Pallet,Carrier_05,Ajman Store,Ajman,39.487,76.612,358,24855.94,40,Delivered
+SHP00110,11/03/2024,17/03/2024,15/03/2024,Italy,Vendor_028,Sea,Pallet,Carrier_03,Abu Dhabi DC,Abu Dhabi,4.302,98.028,36,1921.68,5,Delivered
+SHP00111,04/03/2025,10/03/2025,13/03/2025,United Kingdom,Vendor_013,Sea,Box,Carrier_03,Abu Dhabi DC,Abu Dhabi,43.283,4819.036,686,28366.83,45,Delivered
+SHP00112,24/05/2025,16/06/2025,16/06/2025,Germany,Vendor_037,Air,Box,Carrier_01,Dubai DC,Dubai,39.625,4247.875,1027,50571.06,43,Delivered
+SHP00113,14/03/2025,06/04/2025,10/04/2025,United Kingdom,Vendor_035,Air,Pallet,Carrier_07,Ras Al Khaimah Store,RAK,91.352,8301.064,1443,43208.82,92,Delivered
+SHP00114,20/10/2024,27/10/2024,28/10/2024,Italy,Vendor_038,Sea,Pallet,Carrier_02,Dubai DC,Dubai,93.514,5555.3,1389,31253.41,97,Delivered
+SHP00115,11/07/2025,18/07/2025,19/07/2025,Germany,Vendor_012,Sea,CBM,Carrier_11,Dubai DC,Dubai,39.408,6198.396,1286,36689.56,42,Delivered
+SHP00116,11/04/2024,25/04/2024,25/04/2024,USA,Vendor_032,Air,Pallet,Carrier_06,Sharjah Store,Sharjah,63.956,2584.485,1143,25176.45,68,Delivered
+SHP00117,03/08/2025,05/09/2025,07/09/2025,Italy,Vendor_027,Air,Box,Carrier_12,Ajman Store,Ajman,83.392,4414.766,1565,49661.99,86,Delivered
+SHP00118,05/09/2025,20/09/2025,18/09/2025,Germany,Vendor_009,Air,Box,Carrier_03,Abu Dhabi DC,Abu Dhabi,38.35,2820.886,563,33386.46,41,Delivered
+SHP00119,30/10/2024,05/11/2024,09/11/2024,Spain,Vendor_032,Sea,Pallet,Carrier_02,Sharjah Store,Sharjah,23.294,2797.679,722,33383.02,25,Delivered
+SHP00120,10/06/2024,09/07/2024,17/07/2024,United Kingdom,Vendor_020,Air,CBM,Carrier_04,Abu Dhabi DC,Abu Dhabi,70.801,4804.739,1263,13622.94,73,Delivered
+SHP00121,23/01/2024,22/02/2024,01/03/2024,Italy,Vendor_022,Air,Box,Carrier_07,Abu Dhabi DC,Abu Dhabi,56.675,3643.504,665,29679.79,58,Delivered
+SHP00122,04/03/2025,27/03/2025,27/03/2025,United Kingdom,Vendor_040,Air,Box,Carrier_01,Ras Al Khaimah Store,RAK,90.584,7914.714,1636,77255.49,93,Delivered
+SHP00123,20/02/2024,26/02/2024,03/03/2024,United Kingdom,Vendor_013,Sea,Box,Carrier_01,Al Qusais Store,Dubai,50.137,3906.415,1007,52118.48,53,Delivered
+SHP00124,19/04/2024,24/04/2024,22/04/2024,Spain,Vendor_037,Sea,Pallet,Carrier_08,Ajman Store,Ajman,97.665,4750.175,1337,57374.7,99,Delivered
+SHP00125,29/08/2024,22/09/2024,28/09/2024,Spain,Vendor_013,Air,Box,Carrier_06,Al Qusais Store,Dubai,105.365,5867.793,1498,87548.99,108,Delivered
+SHP00126,08/07/2024,25/07/2024,25/07/2024,United Kingdom,Vendor_005,Air,Pallet,Carrier_05,Al Ain Store,Al Ain,77.711,7459.676,1614,53970.21,81,Delivered
+SHP00127,25/04/2024,05/05/2024,07/05/2024,Spain,Vendor_001,Air,CBM,Carrier_04,Al Qusais Store,Dubai,9.883,652.616,116,8918.08,10,Delivered
+SHP00128,01/10/2024,04/11/2024,12/11/2024,Italy,Vendor_014,Air,Box,Carrier_09,Fujairah Store,Fujairah,42.208,4247.375,665,40610.86,43,Delivered
+SHP00129,03/03/2024,22/03/2024,20/03/2024,Spain,Vendor_023,Air,Box,Carrier_03,Dubai DC,Dubai,58.779,4678.714,875,47848.65,62,Delivered
+SHP00130,14/04/2025,17/05/2025,24/05/2025,Spain,Vendor_008,Air,CBM,Carrier_05,Ras Al Khaimah Store,RAK,29.337,4538.315,707,11359.05,31,Delivered
+SHP00131,12/06/2024,22/06/2024,22/06/2024,USA,Vendor_007,Air,Box,Carrier_09,Dubai DC,Dubai,84.756,4535.129,1151,57054.79,87,Delivered
+SHP00132,21/05/2025,23/06/2025,26/06/2025,Germany,Vendor_009,Air,Pallet,Carrier_05,Al Ain Store,Al Ain,37.104,3069.456,779,52672.27,38,Delivered
+SHP00133,06/12/2024,13/01/2025,16/01/2025,Italy,Vendor_032,Air,Box,Carrier_03,Al Ain Store,Al Ain,16.981,1918.183,298,20711.64,18,Delivered
+SHP00134,18/07/2024,11/08/2024,11/08/2024,Italy,Vendor_017,Air,Pallet,Carrier_10,Al Qusais Store,Dubai,48.039,3558.195,1119,64029.77,50,Delivered
+SHP00135,05/01/2025,13/02/2025,20/02/2025,Italy,Vendor_036,Air,Box,Carrier_08,Fujairah Store,Fujairah,86.332,4168.932,914,26748.84,89,Delivered
+SHP00136,08/04/2025,18/05/2025,25/05/2025,Germany,Vendor_031,Air,CBM,Carrier_06,Sharjah Store,Sharjah,88.358,9282.255,1756,52424.8,91,Delivered
+SHP00137,21/12/2024,27/01/2025,03/02/2025,Spain,Vendor_007,Air,Box,Carrier_09,Al Ain Store,Al Ain,20.931,79.463,229,9869.9,21,Delivered
+SHP00138,20/08/2025,15/09/2025,21/09/2025,USA,Vendor_039,Air,Pallet,Carrier_02,Al Qusais Store,Dubai,57.555,3947.134,813,24373.96,59,Delivered
+SHP00139,07/02/2024,19/02/2024,22/02/2024,Italy,Vendor_029,Air,CBM,Carrier_08,Al Ain Store,Al Ain,103.439,6729.598,1519,43438.68,106,Delivered
+SHP00140,16/09/2025,13/10/2025,21/10/2025,United Kingdom,Vendor_030,Air,Pallet,Carrier_08,Al Qusais Store,Dubai,2.331,259.444,37,175.01,3,Delivered
+SHP00141,28/01/2025,04/02/2025,09/02/2025,USA,Vendor_019,Sea,Pallet,Carrier_06,Al Qusais Store,Dubai,1.227,21.605,29,2194.14,2,Delivered
+SHP00142,29/07/2024,15/08/2024,23/08/2024,USA,Vendor_037,Air,CBM,Carrier_05,Fujairah Store,Fujairah,35.841,2763.934,476,3507,37,Delivered
+SHP00143,22/10/2024,24/10/2024,24/10/2024,Germany,Vendor_007,Sea,Box,Carrier_04,Sharjah Store,Sharjah,38.56,3110.905,715,19402.76,40,Delivered
+SHP00144,01/05/2024,30/05/2024,06/06/2024,Germany,Vendor_006,Air,Pallet,Carrier_10,Abu Dhabi DC,Abu Dhabi,63.78,5591.21,1496,74709.06,67,Delivered
+SHP00145,17/12/2024,22/01/2025,30/01/2025,Spain,Vendor_007,Air,CBM,Carrier_09,Sharjah Store,Sharjah,2.313,195.017,214,11203.29,3,Delivered
+SHP00146,15/02/2025,25/03/2025,02/04/2025,Germany,Vendor_028,Air,Box,Carrier_02,Fujairah Store,Fujairah,10.398,1022.955,193,7142.12,11,Delivered
+SHP00147,18/01/2025,31/01/2025,08/02/2025,United Kingdom,Vendor_016,Air,Box,Carrier_01,Sharjah Store,Sharjah,31.286,640.433,468,14683.69,33,Delivered
+SHP00148,03/03/2024,24/03/2024,26/03/2024,USA,Vendor_007,Air,Pallet,Carrier_01,Al Qusais Store,Dubai,90.264,6684.09,1500,59344.86,92,Delivered
+SHP00149,28/02/2024,07/04/2024,11/04/2024,Italy,Vendor_021,Air,CBM,Carrier_08,Abu Dhabi DC,Abu Dhabi,68.995,5585.908,1722,107699.96,71,Delivered
+SHP00150,25/03/2024,22/04/2024,21/04/2024,United Kingdom,Vendor_002,Air,Box,Carrier_11,Ajman Store,Ajman,35.337,703.935,703,49989.78,36,Delivered
+SHP00151,27/08/2024,22/09/2024,23/09/2024,United Kingdom,Vendor_028,Air,CBM,Carrier_05,Ajman Store,Ajman,57.34,4216.526,660,34943.19,60,Delivered
+SHP00152,06/11/2024,17/11/2024,19/11/2024,Spain,Vendor_029,Air,CBM,Carrier_07,Ajman Store,Ajman,23.597,3994.568,1092,64259.29,26,Delivered
+SHP00153,15/04/2024,10/05/2024,08/05/2024,Germany,Vendor_003,Air,Pallet,Carrier_05,Abu Dhabi DC,Abu Dhabi,24.834,1762.344,369,5313.6,25,Delivered
+SHP00154,05/10/2025,18/10/2025,21/10/2025,USA,Vendor_029,Air,CBM,Carrier_10,Fujairah Store,Fujairah,61.692,3043.005,738,33533.56,63,Delivered
+SHP00155,26/10/2025,06/11/2025,06/11/2025,Spain,Vendor_035,Air,Box,Carrier_08,Ajman Store,Ajman,72.33,4383.106,1281,45305.38,76,In Transit
+SHP00156,12/04/2024,23/04/2024,27/04/2024,Italy,Vendor_030,Air,Pallet,Carrier_07,Abu Dhabi DC,Abu Dhabi,80.105,5418.252,1439,59781.63,82,Delivered
+SHP00157,19/07/2024,22/07/2024,20/07/2024,Spain,Vendor_015,Sea,CBM,Carrier_07,Al Ain Store,Al Ain,28.93,1748.573,382,6694.44,30,Delivered
+SHP00158,01/10/2024,04/10/2024,03/10/2024,USA,Vendor_038,Sea,Box,Carrier_05,Al Ain Store,Al Ain,79.71,1861.973,1147,53561.84,83,Delivered
+SHP00159,09/03/2025,10/04/2025,10/04/2025,USA,Vendor_030,Air,Pallet,Carrier_07,Fujairah Store,Fujairah,61.725,7948.938,1286,40502.91,64,Delivered
+SHP00160,26/03/2024,21/04/2024,26/04/2024,Spain,Vendor_001,Air,Box,Carrier_04,Dubai DC,Dubai,20.125,1042.13,230,12500.5,21,Delivered
+SHP00161,07/01/2025,14/01/2025,15/01/2025,Spain,Vendor_015,Sea,Box,Carrier_05,Al Qusais Store,Dubai,118.511,3644.97,1374,60382.88,121,Delivered
+SHP00162,31/05/2025,05/07/2025,04/07/2025,Italy,Vendor_013,Air,Box,Carrier_05,Sharjah Store,Sharjah,45.996,3532.242,754,33274.22,47,Delivered
+SHP00163,24/08/2024,04/09/2024,06/09/2024,Italy,Vendor_007,Air,Box,Carrier_01,Al Ain Store,Al Ain,49.712,1132.768,416,22206.08,50,Delivered
+SHP00164,27/12/2024,31/12/2024,03/01/2025,Germany,Vendor_006,Sea,Box,Carrier_08,Sharjah Store,Sharjah,56.635,4201.513,801,28739.92,59,Delivered
+SHP00165,23/05/2024,27/06/2024,28/06/2024,Spain,Vendor_025,Air,CBM,Carrier_10,Ajman Store,Ajman,25.077,2408.179,623,24280.88,27,Delivered
+SHP00166,19/09/2025,29/10/2025,03/11/2025,Italy,Vendor_035,Air,Box,Carrier_01,Sharjah Store,Sharjah,91.523,6566.783,1376,35912.61,95,In Transit
+SHP00167,15/06/2024,26/06/2024,03/07/2024,Italy,Vendor_040,Air,Box,Carrier_02,Dubai DC,Dubai,91.832,4453.634,1081,28333.24,93,Delivered
+SHP00168,29/05/2024,01/06/2024,05/06/2024,Germany,Vendor_031,Sea,Box,Carrier_07,Ajman Store,Ajman,0.848,96.832,32,327.04,1,Delivered
+SHP00169,11/10/2025,13/11/2025,11/11/2025,Italy,Vendor_011,Air,Pallet,Carrier_09,Abu Dhabi DC,Abu Dhabi,13.653,364.693,371,4945.43,14,In Transit
+SHP00170,26/10/2024,06/11/2024,05/11/2024,Spain,Vendor_032,Air,Pallet,Carrier_03,Dubai DC,Dubai,67.348,8149.744,1480,64646.64,71,Delivered
+SHP00171,13/08/2024,06/09/2024,06/09/2024,Germany,Vendor_033,Air,CBM,Carrier_03,Ras Al Khaimah Store,RAK,18.46,1636.848,244,3923.2,20,Delivered
+SHP00172,21/08/2025,25/08/2025,02/09/2025,Italy,Vendor_009,Sea,CBM,Carrier_06,Fujairah Store,Fujairah,19.187,2030.717,692,29220.22,21,Delivered
+SHP00173,18/06/2024,25/06/2024,27/06/2024,United Kingdom,Vendor_022,Sea,CBM,Carrier_02,Al Ain Store,Al Ain,25.594,4149.164,1042,19028.86,27,Delivered
+SHP00174,30/05/2025,12/06/2025,19/06/2025,Spain,Vendor_029,Air,CBM,Carrier_07,Fujairah Store,Fujairah,27.562,4067.513,765,17413.55,29,Delivered
+SHP00175,07/01/2025,28/01/2025,02/02/2025,Germany,Vendor_022,Air,Box,Carrier_12,Ajman Store,Ajman,12.272,3084.258,452,23204.19,14,Delivered
+SHP00176,13/08/2025,03/09/2025,10/09/2025,Spain,Vendor_038,Air,Box,Carrier_05,Dubai DC,Dubai,74.994,2616.326,1096,57835.93,77,Delivered
+SHP00177,18/05/2024,22/06/2024,27/06/2024,United Kingdom,Vendor_017,Air,Pallet,Carrier_07,Ras Al Khaimah Store,RAK,103.482,2604.2,1060,69541.65,106,Delivered
+SHP00178,18/11/2024,25/12/2024,31/12/2024,Italy,Vendor_034,Air,Box,Carrier_05,Al Qusais Store,Dubai,88.717,6030.968,1667,57046.26,92,Delivered
+SHP00179,22/02/2025,23/03/2025,21/03/2025,Spain,Vendor_019,Air,Box,Carrier_11,Abu Dhabi DC,Abu Dhabi,52.504,1764.366,510,34992.96,53,Delivered
+SHP00180,13/02/2024,18/02/2024,19/02/2024,United Kingdom,Vendor_013,Sea,Pallet,Carrier_08,Sharjah Store,Sharjah,61.896,7211.857,1182,38402.51,63,Delivered
+SHP00181,29/02/2024,28/03/2024,31/03/2024,Spain,Vendor_022,Air,Box,Carrier_02,Al Qusais Store,Dubai,2.796,3851.662,482,25242.34,3,Delivered
+SHP00182,09/06/2025,15/06/2025,22/06/2025,USA,Vendor_010,Sea,Box,Carrier_04,Abu Dhabi DC,Abu Dhabi,56.41,5551.027,901,24730.55,58,Delivered
+SHP00183,02/09/2025,24/09/2025,30/09/2025,Germany,Vendor_029,Air,Pallet,Carrier_05,Al Ain Store,Al Ain,56.409,4484.232,1164,34164.73,58,Delivered
+SHP00184,26/11/2024,02/01/2025,08/01/2025,Germany,Vendor_038,Air,Pallet,Carrier_05,Ajman Store,Ajman,124.996,2238.798,1228,29474.64,128,Delivered
+SHP00185,21/11/2024,24/11/2024,22/11/2024,Italy,Vendor_039,Sea,Pallet,Carrier_01,Sharjah Store,Sharjah,73.544,6928.986,1367,90306.41,77,Delivered
+SHP00186,06/10/2024,30/10/2024,02/11/2024,Italy,Vendor_013,Air,Box,Carrier_10,Dubai DC,Dubai,155.277,8632.614,1918,60257.42,159,Delivered
+SHP00187,26/04/2025,15/05/2025,20/05/2025,Germany,Vendor_026,Air,Box,Carrier_12,Abu Dhabi DC,Abu Dhabi,32.554,3090.816,723,19825.12,34,Delivered
+SHP00188,01/06/2024,08/06/2024,14/06/2024,United Kingdom,Vendor_037,Sea,Box,Carrier_04,Ajman Store,Ajman,28.635,1124.027,521,15830.16,30,Delivered
+SHP00189,18/03/2025,22/03/2025,22/03/2025,USA,Vendor_022,Sea,Box,Carrier_10,Ras Al Khaimah Store,RAK,45.802,5916.496,1285,72399.67,48,Delivered
+SHP00190,10/04/2024,29/04/2024,30/04/2024,Spain,Vendor_009,Air,Pallet,Carrier_01,Ras Al Khaimah Store,RAK,109.259,2680.221,1408,96425.59,113,Delivered
+SHP00191,04/01/2025,08/02/2025,07/02/2025,Spain,Vendor_021,Air,Box,Carrier_09,Dubai DC,Dubai,62.276,3795.01,610,31286.4,63,Delivered
+SHP00192,27/02/2025,06/03/2025,06/03/2025,Germany,Vendor_001,Sea,Pallet,Carrier_10,Fujairah Store,Fujairah,23.458,119.9,275,18551.5,24,Delivered
+SHP00193,28/05/2025,24/06/2025,29/06/2025,Italy,Vendor_001,Air,Box,Carrier_06,Ajman Store,Ajman,15.002,516.216,411,31014.06,16,Delivered
+SHP00194,19/05/2024,30/05/2024,04/06/2024,Germany,Vendor_002,Air,Pallet,Carrier_11,Dubai DC,Dubai,74.837,4113.404,1245,64910.78,77,Delivered
+SHP00195,28/02/2024,16/03/2024,17/03/2024,Germany,Vendor_030,Air,Box,Carrier_02,Sharjah Store,Sharjah,40.03,4112.685,867,50434.23,42,Delivered
+SHP00196,19/05/2024,10/06/2024,11/06/2024,Germany,Vendor_013,Air,Pallet,Carrier_11,Al Qusais Store,Dubai,10.977,17.578,187,14789.83,11,Delivered
+SHP00197,05/06/2025,23/06/2025,21/06/2025,Italy,Vendor_023,Air,CBM,Carrier_10,Al Qusais Store,Dubai,88.635,3387.184,1468,63861.63,92,Delivered
+SHP00198,12/08/2025,28/08/2025,03/09/2025,Italy,Vendor_012,Air,Box,Carrier_01,Ras Al Khaimah Store,RAK,1.427,1965.786,246,12883.02,2,Delivered
+SHP00199,07/04/2024,05/05/2024,09/05/2024,United Kingdom,Vendor_021,Air,Box,Carrier_03,Al Ain Store,Al Ain,35.702,1746.492,856,26733.33,38,Delivered
+SHP00200,19/05/2025,04/06/2025,04/06/2025,United Kingdom,Vendor_012,Air,Pallet,Carrier_06,Ajman Store,Ajman,54.6,3841.275,906,33725.82,57,Delivered
+SHP00201,05/04/2025,12/05/2025,20/05/2025,Germany,Vendor_002,Air,Box,Carrier_04,Ajman Store,Ajman,67.4,4936.085,1532,58388.52,70,Delivered
+SHP00202,26/09/2024,25/10/2024,24/10/2024,Spain,Vendor_023,Air,CBM,Carrier_06,Ras Al Khaimah Store,RAK,69.334,6447.318,1254,63846.82,73,Delivered
+SHP00203,20/07/2025,09/08/2025,16/08/2025,United Kingdom,Vendor_007,Air,Box,Carrier_01,Dubai DC,Dubai,126.429,3893.115,1816,78286.96,130,Delivered
+SHP00204,20/03/2025,24/04/2025,27/04/2025,Spain,Vendor_003,Air,CBM,Carrier_11,Al Ain Store,Al Ain,75.252,6003.423,1352,23855.88,78,Delivered
+SHP00205,04/08/2024,08/08/2024,08/08/2024,United Kingdom,Vendor_034,Sea,Box,Carrier_04,Dubai DC,Dubai,50.172,4347.64,730,49075.1,51,Delivered
+SHP00206,09/04/2025,12/05/2025,18/05/2025,USA,Vendor_020,Air,Pallet,Carrier_03,Abu Dhabi DC,Abu Dhabi,7.201,891.54,127,6454.14,8,Delivered
+SHP00207,10/01/2024,08/02/2024,09/02/2024,Italy,Vendor_007,Air,Pallet,Carrier_09,Dubai DC,Dubai,2.883,708.66,186,8245.38,3,Delivered
+SHP00208,13/01/2024,19/01/2024,17/01/2024,Germany,Vendor_010,Sea,CBM,Carrier_01,Al Ain Store,Al Ain,5.518,1356.36,356,15781.48,6,Delivered
+SHP00209,16/07/2024,16/08/2024,17/08/2024,USA,Vendor_027,Air,Box,Carrier_08,Al Ain Store,Al Ain,96.69,8198.999,1308,68664.9,100,Delivered
+SHP00210,03/03/2024,07/03/2024,13/03/2024,United Kingdom,Vendor_012,Sea,Pallet,Carrier_01,Ajman Store,Ajman,53.725,3071.904,862,34246.47,55,Delivered
+SHP00211,16/09/2024,23/09/2024,22/09/2024,USA,Vendor_020,Sea,Box,Carrier_03,Dubai DC,Dubai,82.102,7495.823,1684,64221.34,85,Delivered
+SHP00212,07/07/2024,06/08/2024,10/08/2024,Germany,Vendor_034,Air,Box,Carrier_05,Fujairah Store,Fujairah,33.772,2069.379,451,14700.24,35,Delivered
+SHP00213,08/10/2024,08/11/2024,08/11/2024,USA,Vendor_026,Air,Pallet,Carrier_10,Al Ain Store,Al Ain,89.742,2957.729,1010,16551.89,92,Delivered
+SHP00214,06/08/2024,13/08/2024,18/08/2024,United Kingdom,Vendor_001,Sea,Box,Carrier_04,Abu Dhabi DC,Abu Dhabi,36.52,3487.576,568,35166.56,37,Delivered
+SHP00215,08/05/2025,07/06/2025,14/06/2025,Spain,Vendor_011,Air,CBM,Carrier_06,Abu Dhabi DC,Abu Dhabi,16.703,1245.975,449,15503.97,17,Delivered
+SHP00216,03/06/2025,24/06/2025,29/06/2025,Spain,Vendor_031,Air,Box,Carrier_05,Abu Dhabi DC,Abu Dhabi,115.225,6985.946,1690,51948.61,119,Delivered
+SHP00217,02/09/2024,08/09/2024,10/09/2024,Spain,Vendor_009,Sea,CBM,Carrier_02,Ajman Store,Ajman,0.485,1565.108,373,29500.57,1,Delivered
+SHP00218,16/01/2024,25/02/2024,04/03/2024,USA,Vendor_024,Air,Box,Carrier_01,Sharjah Store,Sharjah,2.481,228.684,38,2837.46,3,Delivered
+SHP00219,18/02/2025,27/03/2025,04/04/2025,Germany,Vendor_028,Air,Box,Carrier_04,Abu Dhabi DC,Abu Dhabi,63.302,4662.125,1246,34332.15,65,Delivered
+SHP00220,22/11/2024,31/12/2024,30/12/2024,Germany,Vendor_036,Air,Pallet,Carrier_06,Ajman Store,Ajman,15.137,939.311,189,10136.91,16,Delivered
+SHP00221,26/05/2025,03/07/2025,01/07/2025,Spain,Vendor_040,Air,Pallet,Carrier_08,Ras Al Khaimah Store,RAK,40.104,2490.329,935,21341.87,42,Delivered
+SHP00222,12/07/2025,26/07/2025,24/07/2025,Germany,Vendor_012,Air,Box,Carrier_04,Sharjah Store,Sharjah,68.088,9122.089,1927,80665.27,71,Delivered
+SHP00223,21/05/2025,27/06/2025,05/07/2025,Germany,Vendor_003,Air,Box,Carrier_04,Sharjah Store,Sharjah,30.687,2929.414,420,19692.66,33,Delivered
+SHP00224,28/01/2025,07/03/2025,14/03/2025,USA,Vendor_032,Air,Pallet,Carrier_05,Sharjah Store,Sharjah,112.655,8788.032,1756,68174.92,116,Delivered
+SHP00225,16/07/2024,19/08/2024,24/08/2024,United Kingdom,Vendor_001,Air,CBM,Carrier_02,Dubai DC,Dubai,77.889,6761.304,1149,51517.7,81,Delivered
+SHP00226,13/03/2024,11/04/2024,14/04/2024,Spain,Vendor_033,Air,Box,Carrier_10,Ajman Store,Ajman,37.645,4757.149,715,33931.7,40,Delivered
+SHP00227,05/05/2025,07/06/2025,06/06/2025,USA,Vendor_004,Air,Pallet,Carrier_04,Ras Al Khaimah Store,RAK,59.342,1803.738,612,14391.42,61,Delivered
+SHP00228,02/04/2024,09/04/2024,17/04/2024,United Kingdom,Vendor_038,Sea,Pallet,Carrier_06,Abu Dhabi DC,Abu Dhabi,50.889,3427.756,820,26051.36,52,Delivered
+SHP00229,03/09/2024,05/10/2024,06/10/2024,Italy,Vendor_030,Air,CBM,Carrier_01,Al Qusais Store,Dubai,71.194,4245.798,1086,22859.86,74,Delivered
+SHP00230,09/05/2024,16/06/2024,18/06/2024,Italy,Vendor_026,Air,Box,Carrier_08,Al Ain Store,Al Ain,71.942,3476.614,944,58010.03,75,Delivered
+SHP00231,20/03/2024,27/03/2024,04/04/2024,United Kingdom,Vendor_001,Sea,Box,Carrier_06,Fujairah Store,Fujairah,131.388,5996.818,1432,61328.11,134,Delivered
+SHP00232,04/03/2025,29/03/2025,30/03/2025,USA,Vendor_020,Air,Box,Carrier_10,Ras Al Khaimah Store,RAK,35.02,957.774,498,10740.3,36,Delivered
+SHP00233,26/04/2025,09/05/2025,14/05/2025,Germany,Vendor_010,Air,Pallet,Carrier_11,Fujairah Store,Fujairah,124.487,3520.644,1366,31918.56,126,Delivered
+SHP00234,10/12/2024,16/01/2025,21/01/2025,United Kingdom,Vendor_003,Air,Pallet,Carrier_01,Dubai DC,Dubai,93.137,3430.992,987,41769.69,94,Delivered
+SHP00235,01/03/2025,28/03/2025,29/03/2025,Italy,Vendor_003,Air,Box,Carrier_01,Ras Al Khaimah Store,RAK,87.946,5658.558,1428,33055.88,89,Delivered
+SHP00236,29/03/2024,25/04/2024,26/04/2024,USA,Vendor_001,Air,Pallet,Carrier_09,Ras Al Khaimah Store,RAK,19.647,549.84,339,10818.27,21,Delivered
+SHP00237,13/02/2025,25/02/2025,27/02/2025,USA,Vendor_005,Air,CBM,Carrier_07,Dubai DC,Dubai,58.982,5870.742,761,32194.44,60,Delivered
+SHP00238,12/02/2025,02/03/2025,08/03/2025,USA,Vendor_020,Air,Box,Carrier_07,Ajman Store,Ajman,52.76,1604.837,637,14932.06,54,Delivered
+SHP00239,15/03/2024,04/04/2024,02/04/2024,United Kingdom,Vendor_008,Air,Box,Carrier_04,Dubai DC,Dubai,51.666,2885.372,766,24226.58,53,Delivered
+SHP00240,16/01/2024,22/02/2024,22/02/2024,United Kingdom,Vendor_008,Air,Pallet,Carrier_11,Sharjah Store,Sharjah,73.231,3756.74,1231,35002.15,75,Delivered
+SHP00241,28/11/2024,18/12/2024,19/12/2024,Germany,Vendor_008,Air,CBM,Carrier_10,Dubai DC,Dubai,111.961,5559.294,1338,58123.18,115,Delivered
+SHP00242,18/03/2024,26/04/2024,27/04/2024,United Kingdom,Vendor_001,Air,Pallet,Carrier_05,Al Ain Store,Al Ain,44.805,310.29,504,35816.32,46,Delivered
+SHP00243,22/02/2024,28/02/2024,29/02/2024,Spain,Vendor_002,Sea,Box,Carrier_05,Abu Dhabi DC,Abu Dhabi,28.221,3616.486,989,49096.3,31,Delivered
+SHP00244,13/09/2024,03/10/2024,05/10/2024,Spain,Vendor_040,Air,Pallet,Carrier_06,Ajman Store,Ajman,67.4,4944.757,831,38211.93,69,Delivered
+SHP00245,17/09/2024,19/10/2024,24/10/2024,United Kingdom,Vendor_010,Air,Pallet,Carrier_04,Al Qusais Store,Dubai,105.068,7502.682,2006,71795.84,107,Delivered
+SHP00246,24/10/2024,20/11/2024,24/11/2024,Germany,Vendor_015,Air,Pallet,Carrier_06,Ajman Store,Ajman,8.359,1887.872,344,1420.72,9,Delivered
+SHP00247,20/08/2025,02/09/2025,08/09/2025,Italy,Vendor_001,Air,Box,Carrier_10,Al Qusais Store,Dubai,118.211,8487.458,1513,43240.41,120,Delivered
+SHP00248,31/03/2024,04/04/2024,10/04/2024,USA,Vendor_012,Sea,Box,Carrier_01,Dubai DC,Dubai,24.344,814.512,293,19958.48,25,Delivered
+SHP00249,30/03/2025,27/04/2025,26/04/2025,United Kingdom,Vendor_005,Air,Pallet,Carrier_10,Al Qusais Store,Dubai,24.528,3174.164,735,5424.59,25,Delivered
+SHP00250,23/05/2025,11/06/2025,12/06/2025,USA,Vendor_018,Air,Pallet,Carrier_01,Al Qusais Store,Dubai,44.704,3240.608,959,62080.14,48,Delivered
+SHP00251,18/06/2024,06/07/2024,07/07/2024,Italy,Vendor_031,Air,CBM,Carrier_06,Fujairah Store,Fujairah,62.129,1049.794,678,22147.1,63,Delivered
+SHP00252,09/07/2025,07/08/2025,09/08/2025,United Kingdom,Vendor_026,Air,CBM,Carrier_01,Ajman Store,Ajman,138.615,6754.92,1889,49247.24,142,Delivered
+SHP00253,03/07/2025,19/07/2025,21/07/2025,USA,Vendor_039,Air,CBM,Carrier_06,Fujairah Store,Fujairah,35.566,1025.387,341,8143.08,36,Delivered
+SHP00254,16/12/2024,10/01/2025,16/01/2025,Spain,Vendor_019,Air,Box,Carrier_02,Fujairah Store,Fujairah,39.975,926.714,599,33260.37,40,Delivered
+SHP00255,03/08/2024,23/08/2024,24/08/2024,USA,Vendor_037,Air,Box,Carrier_06,Ras Al Khaimah Store,RAK,57.895,8152.393,1498,66967.2,60,Delivered
+SHP00256,09/12/2024,12/12/2024,19/12/2024,USA,Vendor_011,Sea,Box,Carrier_08,Fujairah Store,Fujairah,115.724,7457.111,1538,76956.77,118,Delivered
+SHP00257,03/05/2024,26/05/2024,25/05/2024,United Kingdom,Vendor_030,Air,Pallet,Carrier_04,Al Qusais Store,Dubai,42.513,5068.502,972,25185.68,45,Delivered
+SHP00258,14/04/2025,24/04/2025,02/05/2025,Italy,Vendor_036,Air,Box,Carrier_06,Al Ain Store,Al Ain,22.113,771.498,378,29812.86,23,Delivered
+SHP00259,07/05/2024,16/06/2024,15/06/2024,United Kingdom,Vendor_007,Air,Pallet,Carrier_03,Fujairah Store,Fujairah,34.381,1323.426,950,27606.55,36,Delivered
+SHP00260,26/05/2024,30/06/2024,03/07/2024,Germany,Vendor_003,Air,Box,Carrier_08,Al Qusais Store,Dubai,38.479,2013.426,612,9691.69,41,Delivered
+SHP00261,18/08/2025,22/09/2025,25/09/2025,Italy,Vendor_040,Air,Box,Carrier_08,Abu Dhabi DC,Abu Dhabi,95.467,6499.84,1812,81344.97,99,Delivered
+SHP00262,19/02/2025,08/03/2025,11/03/2025,Italy,Vendor_019,Air,CBM,Carrier_03,Abu Dhabi DC,Abu Dhabi,43.741,4307.925,1044,41290.41,45,Delivered
+SHP00263,28/09/2024,21/10/2024,27/10/2024,Germany,Vendor_004,Air,Box,Carrier_06,Dubai DC,Dubai,39.095,860.288,378,1924.98,40,Delivered
+SHP00264,01/10/2025,08/10/2025,08/10/2025,Italy,Vendor_015,Sea,Pallet,Carrier_11,Ras Al Khaimah Store,RAK,42.808,2001.079,756,26611.51,44,Delivered
+SHP00265,25/08/2025,07/09/2025,08/09/2025,Spain,Vendor_029,Air,Pallet,Carrier_10,Dubai DC,Dubai,139.624,8775.474,1574,59430.95,142,Delivered
+SHP00266,22/07/2025,20/08/2025,26/08/2025,United Kingdom,Vendor_037,Air,Box,Carrier_11,Fujairah Store,Fujairah,52.283,4325.99,950,30927.89,54,Delivered
+SHP00267,17/05/2024,17/06/2024,23/06/2024,USA,Vendor_003,Air,Pallet,Carrier_11,Al Ain Store,Al Ain,90.765,6047.413,1488,65575.62,94,Delivered
+SHP00268,16/12/2024,08/01/2025,14/01/2025,United Kingdom,Vendor_004,Air,Pallet,Carrier_06,Ras Al Khaimah Store,RAK,132.09,9401.518,1769,59079.17,135,Delivered
+SHP00269,13/03/2025,18/04/2025,21/04/2025,Spain,Vendor_040,Air,Pallet,Carrier_10,Abu Dhabi DC,Abu Dhabi,124.287,8884.174,2065,70049.69,128,Delivered
+SHP00270,02/10/2024,07/10/2024,11/10/2024,Italy,Vendor_020,Sea,CBM,Carrier_12,Sharjah Store,Sharjah,95.538,2549.634,970,44246.28,98,Delivered
+SHP00271,16/11/2024,19/12/2024,26/12/2024,United Kingdom,Vendor_010,Air,Pallet,Carrier_10,Ajman Store,Ajman,72.518,7607.441,1286,41093.67,75,Delivered
+SHP00272,09/04/2024,03/05/2024,07/05/2024,USA,Vendor_026,Air,Box,Carrier_08,Sharjah Store,Sharjah,9.184,1037.3,253,19258.36,10,Delivered
+SHP00273,04/09/2025,05/10/2025,10/10/2025,USA,Vendor_005,Air,Pallet,Carrier_05,Sharjah Store,Sharjah,124.479,7843.285,1896,81172.65,127,Delivered
+SHP00274,14/08/2024,17/08/2024,24/08/2024,Spain,Vendor_036,Sea,Box,Carrier_11,Sharjah Store,Sharjah,142.483,4975.856,2121,71332.01,146,Delivered
+SHP00275,28/03/2024,21/04/2024,27/04/2024,United Kingdom,Vendor_024,Air,CBM,Carrier_03,Fujairah Store,Fujairah,83.281,5054.913,1351,69602.95,85,Delivered
+SHP00276,13/05/2024,15/06/2024,22/06/2024,Italy,Vendor_003,Air,Box,Carrier_07,Sharjah Store,Sharjah,138.915,6103.499,1611,76432.29,141,Delivered
+SHP00277,07/06/2025,19/06/2025,18/06/2025,United Kingdom,Vendor_002,Air,Pallet,Carrier_12,Ras Al Khaimah Store,RAK,18.886,2649.444,746,20960.68,20,Delivered
+SHP00278,18/02/2025,03/03/2025,05/03/2025,Spain,Vendor_025,Air,Pallet,Carrier_07,Sharjah Store,Sharjah,8.165,936.432,144,9362.88,9,Delivered
+SHP00279,09/02/2024,16/03/2024,17/03/2024,United Kingdom,Vendor_021,Air,CBM,Carrier_06,Fujairah Store,Fujairah,5.518,623.2,152,11570.24,6,Delivered
+SHP00280,07/06/2024,04/07/2024,04/07/2024,Germany,Vendor_030,Air,Pallet,Carrier_09,Dubai DC,Dubai,30.076,3764.94,573,29175.54,31,Delivered
+SHP00281,28/07/2024,10/08/2024,09/08/2024,Germany,Vendor_004,Air,Pallet,Carrier_02,Ajman Store,Ajman,76.765,3221.126,876,43820.6,78,Delivered
+SHP00282,19/04/2025,11/05/2025,19/05/2025,Germany,Vendor_004,Air,Box,Carrier_05,Abu Dhabi DC,Abu Dhabi,102.444,6635.016,1375,55623.88,105,Delivered
+SHP00283,13/12/2024,25/12/2024,25/12/2024,Spain,Vendor_008,Air,Box,Carrier_03,Al Qusais Store,Dubai,29.713,1960.599,655,17336.61,31,Delivered
+SHP00284,22/05/2024,29/05/2024,04/06/2024,Spain,Vendor_024,Sea,Pallet,Carrier_11,Al Qusais Store,Dubai,23.517,2994.703,527,9458.52,26,Delivered
+SHP00285,26/12/2024,14/01/2025,21/01/2025,Spain,Vendor_008,Air,Pallet,Carrier_09,Ajman Store,Ajman,71.385,5279.773,1235,56179.69,74,Delivered
+SHP00286,20/09/2024,30/09/2024,05/10/2024,USA,Vendor_011,Air,Pallet,Carrier_01,Ras Al Khaimah Store,RAK,63.862,3458.227,983,27425.37,65,Delivered
+SHP00287,05/12/2024,20/12/2024,21/12/2024,Germany,Vendor_004,Air,Box,Carrier_08,Dubai DC,Dubai,58.8,4381.218,962,36302.54,61,Delivered
+SHP00288,03/02/2025,15/02/2025,16/02/2025,Germany,Vendor_001,Air,Pallet,Carrier_06,Dubai DC,Dubai,119.098,10380.715,2112,99080.56,123,Delivered
+SHP00289,25/06/2025,18/07/2025,26/07/2025,United Kingdom,Vendor_037,Air,Pallet,Carrier_01,Ajman Store,Ajman,19.621,3759.007,601,29762.77,21,Delivered
+SHP00290,12/06/2025,29/06/2025,04/07/2025,Italy,Vendor_033,Air,Pallet,Carrier_06,Sharjah Store,Sharjah,10.132,49.81,85,1737.4,11,Delivered
+SHP00291,28/09/2025,06/11/2025,08/11/2025,Germany,Vendor_026,Air,Pallet,Carrier_02,Al Ain Store,Al Ain,5.195,504.398,126,6079.71,6,In Transit
+SHP00292,28/02/2025,01/04/2025,08/04/2025,USA,Vendor_003,Air,Pallet,Carrier_09,Ras Al Khaimah Store,RAK,21.195,4314.239,757,13954.97,22,Delivered
+SHP00293,26/04/2024,31/05/2024,08/06/2024,Spain,Vendor_039,Air,CBM,Carrier_06,Fujairah Store,Fujairah,3.073,389.136,242,18287.94,4,Delivered
+SHP00294,03/03/2025,20/03/2025,21/03/2025,USA,Vendor_005,Air,Box,Carrier_12,Ajman Store,Ajman,94.474,4553.79,1888,95639.69,97,Delivered
+SHP00295,15/01/2024,22/01/2024,20/01/2024,United Kingdom,Vendor_038,Sea,Pallet,Carrier_11,Ras Al Khaimah Store,RAK,19.184,694.33,218,3174.08,20,Delivered
+SHP00296,04/02/2025,13/03/2025,16/03/2025,USA,Vendor_027,Air,CBM,Carrier_08,Al Ain Store,Al Ain,5.171,134.664,186,13068.36,6,Delivered
+SHP00297,12/09/2024,01/10/2024,04/10/2024,USA,Vendor_030,Air,Pallet,Carrier_04,Dubai DC,Dubai,40.984,1930.648,598,32406.12,42,Delivered
+SHP00298,20/08/2025,24/08/2025,30/08/2025,United Kingdom,Vendor_005,Sea,Box,Carrier_11,Sharjah Store,Sharjah,159.675,7080.424,1973,70951.81,162,Delivered
+SHP00299,17/02/2024,14/03/2024,14/03/2024,USA,Vendor_006,Air,Box,Carrier_01,Sharjah Store,Sharjah,126.694,7234.855,1495,29601.16,130,Delivered
+SHP00300,24/08/2024,29/09/2024,30/09/2024,Italy,Vendor_004,Air,Box,Carrier_01,Ras Al Khaimah Store,RAK,5.917,724.818,107,2548.74,6,Delivered
